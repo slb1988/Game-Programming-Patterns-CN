@@ -65,5 +65,10 @@ Game-Programming-Patterns-CN
 
 欢迎朋友们阅读并斧正，提交 Issue 或者 send pull request :]
 
-能有所收获，便是我翻译中文的意义所在。
-	
+能有所收获，便是我们翻译中文的意义所在。
+
+## 参与
+
+-  在[Issue列表](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues)中查看尚未领取的章节
+-  然后在[Issue1](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues/1)中留言回复，我会更新Issue列表状态。
+-  Folk项目后开始翻译，提交PR。
