@@ -61,14 +61,19 @@ Game-Programming-Patterns-CN
 	-  [空间划分](06.4-Spatial Partition.md)	
 	
 ==========================	
-##	译者
 
-欢迎朋友们阅读并斧正，提交 Issue 或者 send pull request :]
+## 翻译
+
+欢迎朋友们阅读并斧正，提交 Issue 或者 send pull request :) 。
 
 能有所收获，便是我们翻译中文的意义所在。
 
-## 参与
+### 如何参与？
 
 -  在[Issue列表](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues)中查看尚未领取的章节
 -  然后在[Issue1](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues/1)中留言回复，我会更新Issue列表状态。
 -  Fork项目后开始翻译，提交PR。
+
+### 参考资料
+
+-  [术语参考](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/wiki/%E6%9C%AF%E8%AF%AD%E5%8F%82%E8%80%83)
