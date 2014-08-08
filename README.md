@@ -9,7 +9,7 @@ Game-Programming-Patterns-CN
 -  是否发现随着代码库的增长却不容易做出些改动？
 -  是否感觉到你的游戏就是一个纷乱交杂的巨大的毛球？
 -  又或者不知如何将设计模式应用到游戏？
--  听说过“缓存一致性”和“对象池”，但却不知道如何使用它们来让你的游戏提升性能？
+-  听说过“缓存一致性”和“对象池”，但却不知道如何使用它们来提升你的游戏的性能？
 
 你们的救星来啦！我撰写了这本书来解答这些问题。这是我在游戏中所使用的模式总结，这些模式能让我们的代码更整洁，更清晰易懂，以及运行更快！
 
@@ -71,4 +71,4 @@ Game-Programming-Patterns-CN
 
 -  在[Issue列表](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues)中查看尚未领取的章节
 -  然后在[Issue1](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues/1)中留言回复，我会更新Issue列表状态。
--  Folk项目后开始翻译，提交PR。
+-  Fork项目后开始翻译，提交PR。
