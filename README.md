@@ -74,6 +74,8 @@ Game-Programming-Patterns-CN
 -  然后在[Issue1](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues/1)中留言回复，我会更新Issue列表状态。
 -  Fork项目后开始翻译，提交PR。
 
+__目前进度有些停滞，如果朋友们想要参与进来，可以联系我。Email: dabing1022@gmail.com QQ: 804928112__
+
 ### 参考资料
 
 -  [术语参考](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/wiki/%E6%9C%AF%E8%AF%AD%E5%8F%82%E8%80%83)
