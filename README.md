@@ -1,7 +1,9 @@
 Game-Programming-Patterns-CN
 ============================
 
-<center>游戏编程模式中文</center>
+# 游戏编程模式中文 
+
+> [Gitbook地址](https://www.gitbook.com/book/dabing1022/game-programming-patterns-cn)
 
 ## 嘿，游戏开发伙伴们！
 
@@ -74,6 +76,21 @@ Game-Programming-Patterns-CN
 -  然后在[Issue1](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues/1)中留言回复，我会更新Issue列表状态。
 -  Fork项目后开始翻译，提交PR。
 
+目前进度有些停滞，如果朋友们想要参与进来，请申请加入QQ群：112648315
+
 ### 参考资料
 
 -  [术语参考](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/wiki/%E6%9C%AF%E8%AF%AD%E5%8F%82%E8%80%83)
+
+### 贡献人列表(排名不分先后)
+
+> 注：所有贡献人的名字都会在此列出，欢迎大家踊跃参与翻译、校正。
+
+-  [kislyl](https://github.com/kislyl)
+-  [Henry-T](https://github.com/Henry-T)
+-  [lazyqiang](https://github.com/lazyqiang)
+-  [zhizhen](https://github.com/zhizhen)
+-  [Gwill](https://github.com/Gwill)
+-  [Tsiannian](https://github.com/Tsiannian)
+-  [coneo](https://github.com/coneo)
+-  [ChildhoodAndy](https://github.com/dabing1022)
