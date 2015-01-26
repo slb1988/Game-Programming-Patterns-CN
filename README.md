@@ -86,6 +86,7 @@ Game-Programming-Patterns-CN
 
 > 注：所有贡献人的名字都会在此列出，欢迎大家踊跃参与翻译、校正。
 
+-  [子龙山人](https://github.com/andyque)
 -  [kislyl](https://github.com/kislyl)
 -  [Henry-T](https://github.com/Henry-T)
 -  [lazyqiang](https://github.com/lazyqiang)
@@ -93,4 +94,5 @@ Game-Programming-Patterns-CN
 -  [Gwill](https://github.com/Gwill)
 -  [Tsiannian](https://github.com/Tsiannian)
 -  [coneo](https://github.com/coneo)
+-  [Gizmosir](https://github.com/gizmosir)
 -  [ChildhoodAndy](https://github.com/dabing1022)
