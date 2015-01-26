@@ -72,11 +72,13 @@ Game-Programming-Patterns-CN
 
 ### 如何参与？
 
--  在[Issue列表](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues)中查看尚未领取的章节
--  然后在[Issue1](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues/1)中留言回复，我会更新Issue列表状态。
--  Fork项目后开始翻译，提交PR。
+-  翻译：（目前已经都领取完毕）
+    -  在[Issue列表](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues)中查看尚未领取的章节
+    -  然后在[Issue1](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues/1)中留言回复，我会更新Issue列表状态。
+    -  Fork项目后开始翻译，提交PR。
 
-目前进度有些停滞，如果朋友们想要参与进来，请申请加入QQ群：112648315
+-  校正：由于能力所及，总有些地方翻译欠妥，所以校正会一直进行中，朋友们看到有翻译错误，可以在 [Issue列表](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues) 中新建 issue 提出来，更鼓励欢迎直接发送 pull request。
+
 
 ### 参考资料
 
