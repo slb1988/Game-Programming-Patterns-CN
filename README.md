@@ -97,4 +97,5 @@ Game-Programming-Patterns-CN
 -  [Tsiannian](https://github.com/Tsiannian)
 -  [coneo](https://github.com/coneo)
 -  [Gizmosir](https://github.com/gizmosir)
+-  [jptiancai](https://github.com/jptiancai)
 -  [ChildhoodAndy](https://github.com/dabing1022)
