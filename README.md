@@ -80,9 +80,10 @@ Game-Programming-Patterns-CN
 -  校正：由于能力所及，总有些地方翻译欠妥，所以校正会一直进行中，朋友们看到有翻译错误，可以在 [Issue列表](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/issues) 中新建 issue 提出来，更鼓励欢迎直接发送 pull request。
 
 
-### 参考资料
+### [WIKI](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/wiki)
 
 -  [术语参考](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/wiki/%E6%9C%AF%E8%AF%AD%E5%8F%82%E8%80%83)
+-  [校正事项](https://github.com/GameDevelopmentCollege/Game-Programming-Patterns-CN/wiki/%E6%A0%A1%E6%AD%A3%E4%BA%8B%E9%A1%B9)
 
 ### 贡献人列表(排名不分先后)
 
