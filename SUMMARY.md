@@ -7,7 +7,7 @@
     * [享元模式](02.2-Flyweight.md)
     * [观察者模式](02.3-Observer.md)
     * [原型模式](02.4-Prototype.md)
-    * [单例模式](02.5-Singleton.md)
+    * [单件模式](02.5-Singleton.md)
     * [状态模式](02.6-State.md)
 * [序列模式](03-Sequencing Patterns.md)
     * [双缓冲](03.1-Double Buffer.md)
